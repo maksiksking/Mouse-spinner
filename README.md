@@ -2,5 +2,7 @@
 ## It just cirles your mouse
 ### That's it
 **what else were you excpecting?**
-seriously
-~why are you still reading this~
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | seriously |
+| Paragraph | why are you still reading this |
